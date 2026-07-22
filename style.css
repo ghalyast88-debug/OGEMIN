@@ -56,13 +56,13 @@ body > section,
 .hero{
     background:
     linear-gradient(rgba(0,95,115,0.70), rgba(0,95,115,0.70)),
-    url("images/hero.jpg");
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
+    url("images/ogemin_img.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
-color: white;
-padding: 180px 40px;
+    color: white;
+    padding: 180px 40px;
 }
 
 .hero h1{
